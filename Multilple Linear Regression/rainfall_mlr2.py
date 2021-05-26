@@ -7,14 +7,13 @@ from sklearn import metrics
 
 
 # Importing the dataset
-df = pd.read_csv('Rainfall.csv')
+df = pd.read_csv('Rainfall2.csv')
 print(df.describe().T)
 print(df.corr())
 
 values = df.values
-
 # specify columns to plot for Column 1 to 9
-groups = [x for x in range(1, 10)]
+groups = [x for x in range(3, 10)]
 i = 1
 # plot each column
 plt.figure()
@@ -26,7 +25,7 @@ for group in groups:
 plt.show()
 
 # specify columns to plot for columns 10 to 19
-groups = [x for x in range(10, 20)]
+groups = [x for x in range(10, 21)]
 i = 1
 # plot each column
 plt.figure()
@@ -37,13 +36,12 @@ for group in groups:
     i += 1
 plt.show()
 
-
 # Partitioning to Dependent and Independent variables
 # Independent Variable
-X = df.iloc[:, 0:-2].values
+X = df.iloc[:, 0:-3].values
 
 # Dependent Variable
-Y = df.iloc[:, -2].values
+Y = df.iloc[:, -3].values
 
 
 # Splitting the dataset to training and testing
