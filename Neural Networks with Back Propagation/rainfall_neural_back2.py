@@ -23,8 +23,20 @@ for group in groups:
     i += 1
 plt.show()
 
-# specify columns to plot for columns 10 to 19
-groups = [x for x in range(10, 21)]
+# specify columns to plot for columns 10 to 14
+groups = [x for x in range(10, 15)]
+i = 1
+# plot each column
+plt.figure()
+for group in groups:
+    plt.subplot(len(groups), 1, i)
+    plt.plot(values[:, group])
+    plt.title(df.columns[group], y=0.5, loc='left')
+    i += 1
+plt.show()
+
+# specify columns to plot for columns 15 to 20
+groups = [x for x in range(15, 21)]
 i = 1
 # plot each column
 plt.figure()
