@@ -2,6 +2,7 @@
 # Importing Libraries
 import pandas as pd
 import numpy as np
+from matplotlib import pyplot
 from keras.models import Sequential
 from keras.layers import Dense
 from keras.layers import LSTM
@@ -9,13 +10,13 @@ from sklearn import metrics
 import matplotlib.pyplot as plt
 
 # Importing the dataset
-df = pd.read_csv('Rainfall.csv')
+df = pd.read_csv('Rainfall 3.csv')
 print(df.describe().T)
 print(df.corr())
+
 values = df.values
-
-# specify columns to plot for Column 1 to 9
-groups = [x for x in range(1, 10)]
+# specify columns to plot for Column 2 to 5
+groups = [x for x in range(2, 6)]
 i = 1
 # plot each column
 plt.figure()
@@ -26,8 +27,8 @@ for group in groups:
     i += 1
 plt.show()
 
-# specify columns to plot for columns 10 to 19
-groups = [x for x in range(10, 20)]
+# specify columns to plot for columns 6 to 9
+groups = [x for x in range(6, 10)]
 i = 1
 # plot each column
 plt.figure()
@@ -37,10 +38,23 @@ for group in groups:
     plt.title(df.columns[group], y=0.5, loc='left')
     i += 1
 plt.show()
+
+# specify columns to plot for columns 10 to 13
+groups = [x for x in range(10, 14)]
+i = 1
+# plot each column
+plt.figure()
+for group in groups:
+    plt.subplot(len(groups), 1, i)
+    plt.plot(values[:, group])
+    plt.title(df.columns[group], y=0.5, loc='left')
+    i += 1
+plt.show()
+
 
 # Partitioning to Dependent and Independent variables
 # Independent Variable
-X = df.iloc[:, 0:-2].values
+X = df.iloc[:, 2:-2].values
 
 # Dependent Variable
 Y = df.iloc[:, -2].values
@@ -48,6 +62,7 @@ Y = df.iloc[:, -2].values
 X = X.astype('float32')
 Y = Y.astype('float32')
 
+# Splitting the dataset into train and test set
 from sklearn.model_selection import train_test_split
 X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.10, random_state=40)
 
@@ -65,9 +80,9 @@ model.compile(loss='mae', optimizer='adam')
 history = model.fit(X_train, Y_train, epochs=200, batch_size=72, validation_data=(X_test, Y_test), verbose=2,
                     shuffle=False)
 # plot history
-plt.plot(history.history['loss'], label='train')
-plt.legend()
-plt.show()
+pyplot.plot(history.history['loss'], label='train')
+pyplot.legend()
+pyplot.show()
 
 # make a prediction
 y_predicted = model.predict(X_test)

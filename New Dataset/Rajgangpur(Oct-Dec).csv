@@ -1,0 +1,87 @@
+Name,Date time,Maximum Temperature,Minimum Temperature,Temperature,Heat Index,Precipitation,Snow,Snow Depth,Wind Speed,Wind Direction,Visibility,Cloud Cover,Relative Humidity,Conditions
+"Rajgangpur, Rajagangapur(P), Odisha, India",10-01-2019,32.1,24.7,28.4,39.3,0,0,0,9.4,207.5,4.4,68.6,79.28,Partially cloudy
+"Rajgangpur, Rajagangapur(P), Odisha, India",10-02-2019,32.1,25.2,28.4,39.3,2,0,0,9.4,175.33,4.1,78.4,79.38,"Rain, Overcast"
+"Rajgangpur, Rajagangapur(P), Odisha, India",10-03-2019,32.1,24.1,28.6,36.9,0,0,0,9.4,207.89,4.9,46.8,73.21,Partially cloudy
+"Rajgangpur, Rajagangapur(P), Odisha, India",10-04-2019,31.1,25.1,27.9,37.9,14,0,0,3.6,115,3.5,62.6,80.33,"Rain, Partially cloudy"
+"Rajgangpur, Rajagangapur(P), Odisha, India",10-05-2019,32.2,25.3,29,39.3,10,0,0,1,90,4.1,37.3,75.02,"Rain, Partially cloudy"
+"Rajgangpur, Rajagangapur(P), Odisha, India",10-06-2019,32.1,23.7,26.9,38.3,5,0,0,5.4,76.67,3.5,63.5,80.29,"Rain, Partially cloudy"
+"Rajgangpur, Rajagangapur(P), Odisha, India",10-07-2019,31.1,23.7,25.9,36.7,12.79,0,0,7.6,93.33,3.5,84.3,85.47,"Rain, Overcast"
+"Rajgangpur, Rajagangapur(P), Odisha, India",10-08-2019,30.2,23.1,26,35.5,18,0,0,14.8,78.33,3.2,93.3,83.54,"Rain, Overcast"
+"Rajgangpur, Rajagangapur(P), Odisha, India",10-09-2019,31.1,23.1,27.3,35.6,4,0,0,1,90,4.1,59.4,78.63,"Rain, Partially cloudy"
+"Rajgangpur, Rajagangapur(P), Odisha, India",10-10-2019,31.2,23.7,28.2,36.7,4,0,0,3.6,66,4.6,36.7,72.7,"Rain, Partially cloudy"
+"Rajgangpur, Rajagangapur(P), Odisha, India",10-11-2019,30.2,24.4,27.8,35.2,2,0,0,3.6,70,4.4,57,77.05,"Rain, Partially cloudy"
+"Rajgangpur, Rajagangapur(P), Odisha, India",10-12-2019,31.1,24.1,26.1,35.6,16,0,0,14.8,96,3.8,66.7,83.4,"Rain, Partially cloudy"
+"Rajgangpur, Rajagangapur(P), Odisha, India",10/13/2019,32.1,23.2,27.8,36.9,0,0,0,3.6,60,4.4,36.3,72.04,Partially cloudy
+"Rajgangpur, Rajagangapur(P), Odisha, India",10/14/2019,32.1,22.2,27.7,33.8,0,0,0,1,90,4.6,10.5,67.09,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",10/15/2019,31.2,22.2,27.9,33.8,0,0,0,3.6,136,4.3,44.8,66.53,Partially cloudy
+"Rajgangpur, Rajagangapur(P), Odisha, India",10/16/2019,31.4,22.7,27.7,34.3,0,0,0,3.6,97.43,3.7,40.1,71.17,Partially cloudy
+"Rajgangpur, Rajagangapur(P), Odisha, India",10/17/2019,31.2,22.7,28.3,35.6,0,0,0,3.6,55.71,3,44.1,72.67,Partially cloudy
+"Rajgangpur, Rajagangapur(P), Odisha, India",10/18/2019,31.1,24.4,26.9,35.6,2.34,0,0,11.2,66,3.9,67.9,79.46,"Rain, Partially cloudy"
+"Rajgangpur, Rajagangapur(P), Odisha, India",10/19/2019,31.2,23.4,28.2,36.4,0,0,0,3.6,106.4,4.4,50.5,73.18,Partially cloudy
+"Rajgangpur, Rajagangapur(P), Odisha, India",10/20/2019,31.1,24.1,27.9,36,9,0,0,7.6,63.33,3.7,68.9,76.03,"Rain, Partially cloudy"
+"Rajgangpur, Rajagangapur(P), Odisha, India",10/21/2019,31.1,23.3,27.2,35.6,32,0,0,3.6,116.4,4,66.9,79.32,"Rain, Partially cloudy"
+"Rajgangpur, Rajagangapur(P), Odisha, India",10/22/2019,31.1,24.1,28,35.2,0,0,0,1.8,53.67,4.2,59.3,75.28,Partially cloudy
+"Rajgangpur, Rajagangapur(P), Odisha, India",10/23/2019,29.2,23.7,25.8,33.1,2.66,0,0,9.4,57.64,3.6,94.4,85.35,"Rain, Overcast"
+"Rajgangpur, Rajagangapur(P), Odisha, India",10/24/2019,24.5,21.7,22.8,31,42,0,0,5.4,52.75,3,99.4,92.75,"Rain, Overcast"
+"Rajgangpur, Rajagangapur(P), Odisha, India",10/25/2019,24,20.2,22,31,29,0,0,5.4,50,4.2,96.6,88.35,"Rain, Overcast"
+"Rajgangpur, Rajagangapur(P), Odisha, India",10/26/2019,27.1,20.1,23.9,28.9,0,0,0,1.8,147.43,4.6,86.4,81.64,Overcast
+"Rajgangpur, Rajagangapur(P), Odisha, India",10/27/2019,30.1,22.7,26.8,33.8,0,0,0,3.6,63.33,4.9,50.2,75.1,Partially cloudy
+"Rajgangpur, Rajagangapur(P), Odisha, India",10/28/2019,30.2,22.2,27.2,34.3,0,0,0,1.8,62.4,4.3,29,74.1,Partially cloudy
+"Rajgangpur, Rajagangapur(P), Odisha, India",10/29/2019,31.2,22.9,27.7,36,0,0,0,3.6,82,3.9,27.3,73.75,Partially cloudy
+"Rajgangpur, Rajagangapur(P), Odisha, India",10/30/2019,31.4,23.2,27.4,35.6,0,0,0,1.8,182.5,3.3,17.5,73.81,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",10/31/2019,31.9,20.2,27.2,33.1,0,0,0,3.6,70,2.9,1.8,67.46,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",11-01-2019,31.1,22.2,26.7,34.7,0,0,0,5.4,66,2.2,35.3,72.53,Partially cloudy
+"Rajgangpur, Rajagangapur(P), Odisha, India",11-02-2019,31.4,21.1,26.6,33.1,0,0,0,1,90,2.6,16.6,64.51,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",11-03-2019,31.1,20.9,26.4,32.5,0,0,0,1.8,140,2.6,27.3,69.21,Partially cloudy
+"Rajgangpur, Rajagangapur(P), Odisha, India",11-04-2019,31.7,22.1,26.9,33.8,0,0,0,1,90,2.2,0,71.38,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",11-05-2019,31.4,21.9,26.9,33.3,0,0,0,1.8,63.33,2.2,18.2,67.82,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",11-06-2019,30.1,20.1,25.3,30.6,0,0,0,1,90,2.2,4.3,67.69,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",11-07-2019,28.1,20.7,24.7,28.2,0,0,0,3.6,61.43,2.1,25.6,59.16,Partially cloudy
+"Rajgangpur, Rajagangapur(P), Odisha, India",11-08-2019,27.1,17.7,23.9,28,0,0,0,7.6,58,2.1,66.3,66.94,Partially cloudy
+"Rajgangpur, Rajagangapur(P), Odisha, India",11-09-2019,28.1,20.2,25.1,30.2,0,0,0,5.4,101.67,2.9,87.2,72.64,Overcast
+"Rajgangpur, Rajagangapur(P), Odisha, India",11-10-2019,31.1,20.2,26.7,32.6,0,0,0,5.4,47.75,4.4,45.5,67.47,Partially cloudy
+"Rajgangpur, Rajagangapur(P), Odisha, India",11-11-2019,30.9,19.4,25.6,31,0,0,0,1.8,120,2.9,8.3,62.76,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",11-12-2019,28.9,17.2,24.3,28.5,0,0,0,1.8,74,3,0,60.72,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",11/13/2019,29.7,17.1,24.5,29.5,0,0,0,1.8,76.67,2.9,0,62.75,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",11/14/2019,28.7,17.2,23.7,28.6,0,0,0,1.8,76.67,2.8,0,64.46,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",11/15/2019,29.7,16.1,24.1,29.4,0,0,0,1.8,66,2.4,0,60.97,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",11/16/2019,29.9,15.9,24.5,29.5,0,0,0,1,170,2.9,0,63.23,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",11/17/2019,31.1,16.4,24.9,30.4,0,0,0,1.8,76.67,3,0,61.94,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",11/18/2019,30.4,17.2,24.6,29.8,0,0,0,1.8,76.67,3.2,2.8,63.01,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",11/19/2019,30.1,17.2,24.4,29.8,0,0,0,1.8,76.67,3.6,0,58.02,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",11/20/2019,29.1,16.7,24,29.5,0,0,0,1.8,76.67,3.1,17.8,62.85,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",11/21/2019,29.1,17.2,23.9,29,0,0,0,1,90,3,25.1,64.48,Partially cloudy
+"Rajgangpur, Rajagangapur(P), Odisha, India",11/22/2019,29.4,17.2,24.2,29.6,0,0,0,1.8,76.67,2.9,0,66.6,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",11/23/2019,29.4,17.1,23.6,28.8,0,0,0,1,70,2.7,0,61.99,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",11/24/2019,29.4,16.2,23.8,29.2,0,0,0,3.6,70,2.9,0,63.15,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",11/25/2019,29.9,16.4,23.7,30,0,0,0,1,90,2.7,2.4,62.85,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",11/26/2019,29.7,16.1,24.4,30.4,0,0,0,1.8,70,3,0,64.1,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",11/27/2019,30.1,15.9,24.2,31.6,0,0,0,1,90,2.3,1.6,68.16,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",11/28/2019,29.1,16.4,23.6,29.9,0,0,0,1,90,2.3,1.6,68.38,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",11/29/2019,30.1,17.4,24.1,30.3,0,0,0,1,90,2.3,2.9,68.32,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",11/30/2019,29.1,17.2,23.9,29.9,0,0,0,1.8,63.33,2.3,1.8,69.13,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",12-01-2019,28.1,17.4,23.5,28.9,0,0,0,3.6,76.67,2.4,51.1,72.48,Partially cloudy
+"Rajgangpur, Rajagangapur(P), Odisha, India",12-02-2019,28.2,17.4,23.3,28.1,0,0,0,1,90,2.9,17.1,62.78,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",12-03-2019,29.2,15.9,23.2,28.7,0,0,0,1.8,76.67,2.5,3.3,64.14,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",12-04-2019,27.9,15.7,22.2,27.5,0,0,0,3.6,66,2.5,3.2,59.25,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",12-05-2019,26.2,12.7,20.5,26,0,0,0,3.6,58,3.3,0.8,53.01,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",12-06-2019,26.7,11.9,20.6,26,0,0,0,1,90,2.7,0.8,62.47,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",12-07-2019,28.1,13.4,22,27.5,0,0,0,3.6,63.33,2.5,1.8,64.1,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",12-08-2019,29.1,14.4,22.4,28.4,0,0,0,3.6,90,3,6.7,61.71,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",12-09-2019,27.9,14.7,22.4,27.7,0,0,0,1,90,2.8,5.6,63.33,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",12-10-2019,28.1,15.1,22.7,27.9,0,0,0,1,90,3,10,64.87,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",12-11-2019,28.1,15.2,22.4,27.9,0,0,0,5.4,145,2.3,0,63.96,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",12-12-2019,28.1,15.4,22.6,27.7,0,0,0,3.6,115,2.4,7.6,64.44,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",12/13/2019,28.2,15.9,23.2,28.4,0,0,0,5.4,142.5,2.8,22.4,68.14,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",12/14/2019,29.1,16.9,23.6,29.5,0,0,0,3.6,105,2.6,12.9,69.3,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",12/15/2019,28.1,18.2,23.8,28.9,0,0,0,5.4,138.57,3.5,16.7,69.63,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",12/16/2019,26.4,17.8,22.5,27,0.4,0,0,21.5,76.67,2.3,68.7,77.09,"Rain, Partially cloudy"
+"Rajgangpur, Rajagangapur(P), Odisha, India",12/17/2019,25.4,19.2,22.3,27,0,0,0,1,90,2.2,46.9,81.23,Partially cloudy
+"Rajgangpur, Rajagangapur(P), Odisha, India",12/18/2019,26.1,15.9,20.8,27,0,0,0,1.8,153.33,3.5,18.7,63.17,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",12/19/2019,26.4,11.1,20.4,27,0,0,0,3.6,160,4.4,0,56.72,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",12/20/2019,27.1,10.7,20.7,26.6,0,0,0,1,90,3.5,6.1,56.42,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",12/21/2019,27.1,11.4,20.8,26.4,0,0,0,1.8,136.67,4.1,45.4,54.87,Partially cloudy
+"Rajgangpur, Rajagangapur(P), Odisha, India",12/22/2019,29.1,14.4,22.8,28,0,0,0,1.8,76.67,4.2,52.9,53.16,Partially cloudy
+"Rajgangpur, Rajagangapur(P), Odisha, India",12/23/2019,26.1,16.9,21.6,27,0,0,0,1,90,4.1,57.3,61.35,Partially cloudy
+"Rajgangpur, Rajagangapur(P), Odisha, India",12/24/2019,28.1,14.2,22.2,28.3,0,0,0,5.4,70,2.3,0,66.37,Clear
+"Rajgangpur, Rajagangapur(P), Odisha, India",12/25/2019,28.9,15.1,23.1,28.4,0,0,0,3.6,146,2.3,13.5,62.88,Clear

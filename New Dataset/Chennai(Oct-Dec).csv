@@ -1,0 +1,93 @@
+Name,Date time,Maximum Temperature,Minimum Temperature,Temperature,Heat Index,Precipitation,Snow,Snow Depth,Wind Speed,Wind Direction,Visibility,Cloud Cover,Relative Humidity,Conditions
+"Chennai, TN, India",10-01-2019,34,26,29.5,40.6,0,0,0,27.7,155.83,6.4,38,75.81,Partially cloudy
+"Chennai, TN, India",10-02-2019,34,27,29.9,42.1,0,0,0,26.2,172,6,40,77.3,Partially cloudy
+"Chennai, TN, India",10-03-2019,34,27,29.9,42.1,0,0,0,22.3,159.5,6.5,35.7,76.11,Partially cloudy
+"Chennai, TN, India",10-04-2019,34,27,29.9,40.6,0,0,0,18.4,193.25,6.6,35,75.08,Partially cloudy
+"Chennai, TN, India",10-05-2019,33,26,29.5,39.3,0,0,0,18.4,170.04,6.5,38,73.74,Partially cloudy
+"Chennai, TN, India",10-06-2019,33,27,29.9,39.9,0,0,0,18.4,190.63,6.5,40,75.5,Partially cloudy
+"Chennai, TN, India",10-07-2019,35,27,30.1,40.6,0,0,0,16.6,176.92,6.3,33,74.03,Partially cloudy
+"Chennai, TN, India",10-08-2019,34,27,29.9,40.6,0,0,0,16.6,200.63,6.3,37.6,74.53,Partially cloudy
+"Chennai, TN, India",10-09-2019,32,27,29.8,39.7,0,0,0,18.4,146.63,6.2,39.6,74.88,Partially cloudy
+"Chennai, TN, India",10-10-2019,32.1,27,29.2,38.9,1,0,0,16.6,141.29,5.8,43.2,77.71,"Rain, Partially cloudy"
+"Chennai, TN, India",10-11-2019,33,26,29.7,40.6,0,0,0,18.4,136.21,6.3,36.3,75.55,Partially cloudy
+"Chennai, TN, India",10-12-2019,34,27,30.1,40.6,0,0,0,22.3,111.25,6.2,33.7,73.45,Partially cloudy
+"Chennai, TN, India",10/13/2019,33,27,30.2,40.6,0,0,0,20.5,98.67,6.2,40.9,73.9,Partially cloudy
+"Chennai, TN, India",10/14/2019,34,27,30.2,42,3.1,0,0,22.3,149.83,6.2,46.2,74.27,"Rain, Partially cloudy"
+"Chennai, TN, India",10/15/2019,33,26,29.2,40.6,5.9,0,0,18.4,156.25,5.5,65.1,81.92,"Rain, Partially cloudy"
+"Chennai, TN, India",10/16/2019,30,24.7,27.1,37.4,14.48,0,0,16.6,116.29,5.4,64.8,88.26,"Rain, Partially cloudy"
+"Chennai, TN, India",10/17/2019,28,24,25.8,32.7,60.9,0,0,11.2,173.58,4.3,71.2,94.87,"Rain, Partially cloudy"
+"Chennai, TN, India",10/18/2019,31,24.7,27.7,37.7,100,0,0,18.4,119.17,5.1,65.9,86.38,"Rain, Partially cloudy"
+"Chennai, TN, India",10/19/2019,31,25,27.4,37.7,7.2,0,0,16.6,126.63,5,70.1,88.94,"Rain, Partially cloudy"
+"Chennai, TN, India",10/20/2019,30,25,27,36.2,25.57,0,0,18.4,133.65,4.8,70.9,91.7,"Rain, Partially cloudy"
+"Chennai, TN, India",10/21/2019,28,25,26.1,32.7,55.47,0,0,17,148.5,4,73.9,93.71,"Rain, Partially cloudy"
+"Chennai, TN, India",10/22/2019,27,24,25.5,30.6,30,0,0,15.7,251.58,4.3,68.9,93.46,"Rain, Partially cloudy"
+"Chennai, TN, India",10/23/2019,32,25,28.2,37.9,0,0,0,13,192.67,5.7,58.5,81.66,Partially cloudy
+"Chennai, TN, India",10/24/2019,30,25,27.3,36.2,2.2,0,0,22.3,215.08,5,73.2,86.21,"Rain, Partially cloudy"
+"Chennai, TN, India",10/25/2019,30.1,26.7,28.2,37.4,0,0,0,18.4,145.08,5.1,71.4,83.29,Partially cloudy
+"Chennai, TN, India",10/26/2019,31,24,27.6,39.1,43,0,0,16.6,145.95,4.4,60,86.44,"Rain, Partially cloudy"
+"Chennai, TN, India",10/27/2019,32,26,28.8,40.6,0,0,0,20.5,87.74,5.1,38.6,81.04,Partially cloudy
+"Chennai, TN, India",10/28/2019,31,25,28.1,38.8,44.73,0,0,14.8,139.63,5,62.3,85.84,"Rain, Partially cloudy"
+"Chennai, TN, India",10/29/2019,32,25,28.5,39.2,23.53,0,0,24.1,78.62,5,61.4,80.89,"Rain, Partially cloudy"
+"Chennai, TN, India",10/30/2019,28,24,25.9,33.6,78.69,0,0,14.8,104.17,2.8,80.6,95.2,"Rain, Overcast"
+"Chennai, TN, India",10/31/2019,30.1,25,27.3,35.9,2.23,0,0,16.6,126.17,5.5,65,86.32,"Rain, Partially cloudy"
+"Chennai, TN, India",11-01-2019,32,24.7,28.2,39.2,0,0,0,16.6,96.25,6.2,41.7,80.92,Partially cloudy
+"Chennai, TN, India",11-02-2019,32,25.9,28.8,39.2,0,0,0,18.4,78.39,5.8,41.4,81.42,Partially cloudy
+"Chennai, TN, India",11-03-2019,32,26,28.7,39.2,0,0,0,14.8,71.42,5,45.3,79.15,Partially cloudy
+"Chennai, TN, India",11-04-2019,33,25,28.6,38.2,0,0,0,12.1,92.29,4,25.1,78.12,Partially cloudy
+"Chennai, TN, India",11-05-2019,33,25,28.8,37,0,0,0,16.6,148.75,3.8,19.3,76.3,Clear
+"Chennai, TN, India",11-06-2019,33,26,28.8,37,0,0,0,22.3,133.29,3.8,33.6,76.74,Partially cloudy
+"Chennai, TN, India",11-07-2019,34,26,29,40.6,0,0,0,27.1,179.82,3.2,37.9,76.07,Partially cloudy
+"Chennai, TN, India",11-08-2019,35,26,29.7,41.9,0,0,0,17,177.17,3.7,30.3,75.1,Partially cloudy
+"Chennai, TN, India",11-09-2019,34,26.9,29.2,42.1,25,0,0,17,175.54,3.4,48.2,82.34,"Rain, Partially cloudy"
+"Chennai, TN, India",11-10-2019,33,26,28.7,38.8,0,0,0,14.2,146.58,3.7,31.3,77.32,Partially cloudy
+"Chennai, TN, India",11-11-2019,33,25,28.3,37,0,0,0,16.6,143.86,4.6,47.1,75.55,Partially cloudy
+"Chennai, TN, India",11-12-2019,34,25,28.6,38.3,0,0,0,20.5,98.67,5.4,48.1,73.81,Partially cloudy
+"Chennai, TN, India",11/13/2019,32,24.9,28.4,36.8,0,0,0,24.1,101.1,5.4,47.7,74.18,Partially cloudy
+"Chennai, TN, India",11/14/2019,32,25.4,28.5,39.3,2,0,0,18.4,114.83,6.2,55.6,79.5,"Rain, Partially cloudy"
+"Chennai, TN, India",11/15/2019,30.8,25,27.1,37.6,4.55,0,0,22.3,136.92,5.4,60.8,85.26,"Rain, Partially cloudy"
+"Chennai, TN, India",11/16/2019,31,25,27.7,37.5,3,0,0,14.8,117,4.5,53.2,82.59,"Rain, Partially cloudy"
+"Chennai, TN, India",11/17/2019,31.3,25,27.7,38.1,3,0,0,19.5,134.09,4.9,46.7,81.64,"Rain, Partially cloudy"
+"Chennai, TN, India",11/18/2019,32,25.5,28.1,39.2,6,0,0,18.4,115.9,5.4,50.3,84.13,"Rain, Partially cloudy"
+"Chennai, TN, India",11/19/2019,31.6,25.1,27.9,39.6,12,0,0,17.2,144.42,4.5,57.7,85.79,"Rain, Partially cloudy"
+"Chennai, TN, India",11/20/2019,32,25,28.2,39.2,21.87,0,0,17.5,76.95,4.8,67.6,83.44,"Rain, Partially cloudy"
+"Chennai, TN, India",11/21/2019,30,24,27.5,35.1,12.96,0,0,22.9,83.38,4.7,69.4,82.8,"Rain, Partially cloudy"
+"Chennai, TN, India",11/22/2019,30,25,27.3,35.1,7.1,0,0,25.9,117.91,5,65.9,82.57,"Rain, Partially cloudy"
+"Chennai, TN, India",11/23/2019,30.6,22.8,26.6,35.3,29.13,0,0,13,117.2,3.1,75.6,83.39,"Rain, Overcast"
+"Chennai, TN, India",11/24/2019,31.5,20.8,26.5,35.5,0,0,0,14.8,113,4.4,54.4,79.97,Partially cloudy
+"Chennai, TN, India",11/25/2019,32,22,26.9,37.8,0.2,0,0,22.3,202.92,5.1,59.1,79.22,"Rain, Partially cloudy"
+"Chennai, TN, India",11/26/2019,31.9,22.3,26.9,36.9,0,0,0,20.5,84.29,4.8,59.6,79.87,Partially cloudy
+"Chennai, TN, India",11/27/2019,32,23.1,27.8,39.2,3,0,0,18.4,51.83,5.5,51.7,82.2,"Rain, Partially cloudy"
+"Chennai, TN, India",11/28/2019,31,22.8,27.4,37.7,34.04,0,0,24.1,121.68,5.1,66.3,87.48,"Rain, Partially cloudy"
+"Chennai, TN, India",11/29/2019,30,25.6,27.8,36.2,13.73,0,0,22.3,62.71,5.5,56.4,85.44,"Rain, Partially cloudy"
+"Chennai, TN, India",11/30/2019,30,24,26.9,37.4,67.92,0,0,22.3,62.39,4.7,70.5,89.81,"Rain, Partially cloudy"
+"Chennai, TN, India",12-01-2019,29,24,25.7,35.6,105.86,0,0,27.7,66.87,3.3,77.9,93.87,"Rain, Overcast"
+"Chennai, TN, India",12-02-2019,31.5,25,27.4,39.5,13.64,0,0,17.6,38.91,4.7,74,87.63,"Rain, Partially cloudy"
+"Chennai, TN, India",12-03-2019,31,26,28,37,0,0,0,22.3,47.96,5.1,67.5,81.26,Partially cloudy
+"Chennai, TN, India",12-04-2019,30.5,26,28,35.5,0.91,0,0,22.3,51.46,5.4,55.2,73.8,"Rain, Partially cloudy"
+"Chennai, TN, India",12-05-2019,30,24,27.4,32.7,0,0,0,25.9,45.09,5.1,55.2,69.5,Partially cloudy
+"Chennai, TN, India",12-06-2019,31,25,27.2,33.7,0,0,0,20.8,37.83,5.5,64.5,70.49,Partially cloudy
+"Chennai, TN, India",12-07-2019,29.4,24,25.7,35,17.95,0,0,16.7,170.35,4.1,72.2,90.93,"Rain, Partially cloudy"
+"Chennai, TN, India",12-08-2019,30.6,24,27.2,35.1,2.6,0,0,22.3,48.83,5.1,53.5,78.37,"Rain, Partially cloudy"
+"Chennai, TN, India",12-09-2019,31,24,27.3,34.1,0.9,0,0,22.3,34.71,5.6,49.8,75,"Rain, Partially cloudy"
+"Chennai, TN, India",12-10-2019,31,23,26.7,33.7,0,0,0,20.5,46.09,5.7,44.9,76.07,Partially cloudy
+"Chennai, TN, India",12-11-2019,30,23,27.4,32.6,0,0,0,18.4,78.32,6.2,51,71.69,Partially cloudy
+"Chennai, TN, India",12-12-2019,31.1,24,27.6,35.2,0,0,0,22.3,39.78,5.8,45.3,72.01,Partially cloudy
+"Chennai, TN, India",12/13/2019,29,24,26.5,34.5,10.99,0,0,14.8,40.71,4.7,63.7,83.48,"Rain, Partially cloudy"
+"Chennai, TN, India",12/14/2019,27.6,25,26,31,8,0,0,16.6,68.74,4.2,74.1,87.77,"Rain, Partially cloudy"
+"Chennai, TN, India",12/15/2019,31.4,23,26.6,36.1,0,0,0,14.8,26.77,5.4,53.9,79.45,Partially cloudy
+"Chennai, TN, India",12/16/2019,30,24,26.7,34.8,3,0,0,22.3,66.21,5.4,56.5,82.79,"Rain, Partially cloudy"
+"Chennai, TN, India",12/17/2019,30,24,27.1,32.6,0,0,0,20.5,35.41,5.1,49.4,74.89,Partially cloudy
+"Chennai, TN, India",12/18/2019,30,24,27.2,34.6,5.1,0,0,24.1,72.59,5,63.4,80.12,"Rain, Partially cloudy"
+"Chennai, TN, India",12/19/2019,30,25,27.5,33.4,0,0,0,27.7,49.17,5.4,45.9,74.73,Partially cloudy
+"Chennai, TN, India",12/20/2019,30,23,26.9,34.1,0,0,0,22.3,45.14,5.2,49.9,77.16,Partially cloudy
+"Chennai, TN, India",12/21/2019,30,23,26.6,33.3,0,0,0,18.4,59.86,5.1,57.5,76.55,Partially cloudy
+"Chennai, TN, India",12/22/2019,30,23,26.6,32.6,0,0,0,18.4,49.83,5.5,45.2,70.84,Partially cloudy
+"Chennai, TN, India",12/23/2019,30,22,26,32.6,0,0,0,16.6,66.71,4.9,50.5,75.73,Partially cloudy
+"Chennai, TN, India",12/24/2019,27,25,25.7,30.1,0.5,0,0,22.3,100.08,3.6,72.5,87.22,"Rain, Partially cloudy"
+"Chennai, TN, India",12/25/2019,29,24,26.6,32.7,0,0,0,18.4,39.63,5,59.5,78.68,Partially cloudy
+"Chennai, TN, India",12/26/2019,30,22,25.5,32.6,0,0,0,14.8,71.43,4.9,41.9,79.76,Partially cloudy
+"Chennai, TN, India",12/27/2019,30,22,26,33.3,0,0,0,18.4,109.68,5.3,39.2,76.45,Partially cloudy
+"Chennai, TN, India",12/28/2019,31,23,26.4,33.7,0,0,0,14.8,33.29,5,40.9,76.05,Partially cloudy
+"Chennai, TN, India",12/29/2019,30,23,26.1,32,3,0,0,18.4,61.48,4.3,55.1,79.7,"Rain, Partially cloudy"
+"Chennai, TN, India",12/30/2019,29,22.7,25.7,32.3,40,0,0,20.5,130.71,4.4,56.7,82.05,"Rain, Partially cloudy"
+"Chennai, TN, India",12/31/2019,30,24,26.8,35.1,4.1,0,0,22.3,58.71,4.9,66.1,83.85,"Rain, Partially cloudy"
